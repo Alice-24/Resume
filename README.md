@@ -1,4 +1,4 @@
 # Resume
 It contains details
 
-[link here]
+[link here](http://resume.local/profile/)
